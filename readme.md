@@ -15,3 +15,14 @@ Please start by reading act_report.pdf (act_report.html).
 |- `tweet_json.txt`: file constructed via API  
 |- `twitter_archive_master.csv`: combined and cleaned data  
 |- `cleaned_image_predictions.csv`: a database file for your stored clean data  
+
+## Key figures
+<p align="center">
+  <img src="Figure1.PNG" width = "600" />
+</p>
+<p align="center">
+  <img src="Figure2.PNG" width = "600" />
+</p>
+<p align="center">
+  <img src="Figure3.PNG" width = "600" />
+</p>
