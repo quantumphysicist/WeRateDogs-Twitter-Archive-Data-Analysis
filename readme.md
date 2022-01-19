@@ -21,8 +21,8 @@ Please start by reading act_report.pdf (act_report.html).
   <img src="Figure1.PNG"/>
 </p>
 <p align="center">
-  <img src="Figure2.PNG" width = "600" />
+  <img src="Figure2.PNG"/>
 </p>
 <p align="center">
-  <img src="Figure3.PNG" width = "600" />
+  <img src="Figure3.PNG"/>
 </p>
