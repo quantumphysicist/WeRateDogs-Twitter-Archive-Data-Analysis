@@ -2,7 +2,7 @@
 
 We analyzed the record of tweets from the account WeRateDogs® (@dog_rates) to discover some interesting insights about dogs and dog-lovers. We accessed the Twitter archive for WeRateDogs® prior to August 1st, 2017 and analyzed those tweets. After cleaning the data, we analyzed tweets for 2069 dogs. Udacity ran the associated images through a neural network that classifies the breed of dogs. Here are our findings.
 
-Please start by reading act_report.pdf (act_report.html).
+Please start by reading act_report.pdf.
 
 **Folder contents**
 
